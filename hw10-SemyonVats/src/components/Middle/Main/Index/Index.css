@@ -1,0 +1,27 @@
+.posts-container {
+    max-width: 800px;
+}
+
+.post-block {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 30px;
+    background: #f9f9f9;
+}
+
+.post-author {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.post-content {
+    line-height: 1.5;
+}
+
+.clickable-title {
+    cursor: pointer;
+    color: #007bff;
+    margin: 0 0 10px 0;
+}
